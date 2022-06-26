@@ -1,4 +1,4 @@
-Ind,ProjectID,SWE,AFP,EI,EO,EQ,ILF,EIF,NPDR,IS_Banking,IS_Communication,IS_Construction,IS_Electronics & Computers,IS_Financial,IS_Government,IS_Insurance,IS_Manufacturing,IS_Medical & Health Care,IS_Mining,IS_Professional Services,IS_Service Industry,IS_Utilities,IS_Wholesale & Retail,RS_M1,RS_M2,RS_S
+Ind,ProjectID,SWE,AFP,EI,EO,EQ,ILF,EIF,NPDR,IS_Banking,IS_Communication,IS_Construction,IS_ElectronicsComputers,IS_Financial,IS_Government,IS_Insurance,IS_Manufacturing,IS_Medical,IS_Mining,IS_ProfessionalServices,IS_ServiceIndustry,IS_Utilities,IS_WholesaleRetail,RS_M1,RS_M2,RS_S
 178,0.988723156,0.326713557,0.738947368,0.421621622,0.904458599,0.580882353,0.426573427,0.551020408,0.086956522,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
 102,0.571390062,0.410288236,0.284210526,0.324324324,0.146496815,0.558823529,0.083916084,0,0.260869565,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
 176,0.970078174,0.064129086,0.164210526,0.021621622,0.050955414,0.066176471,0.636363636,0.040816327,0.086956522,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
